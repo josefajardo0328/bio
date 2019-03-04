@@ -1,0 +1,62 @@
+header {
+	background-color: gold;
+}
+h1{
+	/*background-image: url("unknown.jpeg");*/
+	color: #000;
+	margin: 0;
+	font-family: 'Roboto Mono', monospace;
+	text-transform: lowercase;
+	letter-spacing: 10px;
+	text-align: center;
+	padding: 3%;
+	font-size: 45px;
+}
+
+div.about {
+	background-color: black;
+	padding: 0;
+	margin: 0;
+	padding: 3%;
+}
+
+div.albums{
+	background-color: grey;
+	text-align: center;
+	padding: 3%;
+}
+
+body{
+	background-color: black;
+	padding: 0;
+	margin: 0;
+	
+}
+
+h2{
+	color: gold;
+	text-align: center;
+	font-family: 'Roboto Mono', monospace;
+	text-transform: lowercase;
+	letter-spacing: 10px;
+}
+
+p{
+	color: gold;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	line-height: 32px;
+}
+
+.scorpion{
+	width: 55%;
+
+}
+
+.portland{
+	width: 55%;
+}
+
+.yacht{
+	width: 55%;
+}
